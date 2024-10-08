@@ -1,0 +1,7 @@
+# This configuration file is backwards compatible with the *dcoapp/app* (https://github.com/dcoapp/app) configuration file.
+
+# https://github.com/cncf/dco2?#remediation-commits
+allowRemediationCommits:
+  # Allow individual remediation commits
+  # https://github.com/cncf/dco2?#individual
+  individual: false
