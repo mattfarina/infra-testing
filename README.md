@@ -5,4 +5,5 @@ This repository is for testing infrastructure changes to better understand them.
 ## Current Tools Being Tested
 
 * https://github.com/apps/dco-2
+* https://github.com/apps/dco
 * https://github.com/apps/gcp-cherry-pick-bot
